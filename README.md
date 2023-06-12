@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📕 I'm currently pursuing a BS in Computer Science at the University of Maryland, College Park
+📕 I'm currently pursuing a BS in Computer Science at the University of Maryland, College Park <br />
 👨🏽‍💻 I'm working as a Software Engineering Intern at Crestron Electronics
 
 <!--
