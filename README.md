@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📕 I'm currently pursuing a BS in Computer Science at the University of Maryland, College Park
+👨🏽‍💻 I'm working as a Software Engineering Intern at Crestron Electronics
+
 <!--
 **rohanshar77/rohanshar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
