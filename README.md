@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-ffb6c1?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 
-##### Tools: <br />
+##### Developer Tools: <br />
 ![Git](https://img.shields.io/badge/-Git-bdb76b?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ffd700?style=flat&logo=mongodb)
