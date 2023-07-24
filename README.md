@@ -1,6 +1,6 @@
 # Hi there 👋
 
-📕 I'm currently pursuing a B.S. in Computer Science at the University of Maryland, College Park <br />
+📕 I'm currently pursuing a B.S. in Computer Science and a Minor in Computational Finance at the University of Maryland, College Park <br />
 👨🏽‍💻 This summer, I'm working as a Software Engineering Intern at Crestron Electronics
 
 ## Skills:
