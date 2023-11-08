@@ -1,7 +1,6 @@
 # Hi there 👋
 
 📕 I'm currently pursuing a B.S. in Computer Science and a Minor in Computational Finance at the University of Maryland, College Park <br />
-👨🏽‍💻 This summer, I'm working as a Software Engineering Intern at Crestron Electronics
 
 ## Skills:
 
@@ -10,9 +9,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C/C++](https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat&logo=c)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
-![OCaml](https://img.shields.io/badge/-OCaml-ffc0cb?style=flat&logo=ocaml)
 ![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-0076A8?style=flat)
 
 ##### Frameworks: <br />
