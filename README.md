@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 📕 I'm currently pursuing a B.S. in Computer Science and a Minor in Technology Entrepreneurship at the University of Maryland, College Park <br />
 
@@ -10,22 +10,23 @@
 ![C/C++](https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat&logo=c)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
-![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-0076A8?style=flat)
 
-##### Frameworks: <br />
-![React](https://img.shields.io/badge/-React-ffa500?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-ffb6c1?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+##### Machine Learning: <br />
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
 
-##### Developer Tools: <br />
-![Git](https://img.shields.io/badge/-Git-bdb76b?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-![MongoDB](https://img.shields.io/badge/-MongoDB-ffd700?style=flat&logo=mongodb)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse)
-![JUnit](https://img.shields.io/badge/-JUnit-7cfc00?style=flat&logo=junit5)
-![GDB](https://img.shields.io/badge/-GDB-000000?style=flat&logo=gnu)
+##### Data Management: <br />
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![SciPy](https://img.shields.io/badge/-SciPy-8CA1AF?style=flat&logo=scipy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF6384?style=flat&logo=matplotlib)
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=google-analytics)
 
-##### Systems/Web: <br />
+##### Web Development: <br />
 ![Linux](https://img.shields.io/badge/-Linux-d8bfd8?style=flat&logo=linux)
 ![Unix](https://img.shields.io/badge/-Unix-000000?style=flat&logo=unix)
 ![HTML](https://img.shields.io/badge/-HTML-ff69b4?style=flat&logo=html5)
