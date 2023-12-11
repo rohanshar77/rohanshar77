@@ -27,13 +27,14 @@
 ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat&logo=google-analytics)
 
 ##### Web Development: <br />
-![Linux](https://img.shields.io/badge/-Linux-d8bfd8?style=flat&logo=linux)
-![Unix](https://img.shields.io/badge/-Unix-000000?style=flat&logo=unix)
-![HTML](https://img.shields.io/badge/-HTML-ff69b4?style=flat&logo=html5)
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![Microsoft Office Suite](https://img.shields.io/badge/-Microsoft%20Office%20Suite-D83B01?style=flat&logo=microsoft-office)
-
-
 
 <!--
 **rohanshar77/rohanshar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
