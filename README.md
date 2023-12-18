@@ -1,6 +1,8 @@
 # Hello 👋
 
-📕 I'm currently pursuing a B.S. in Computer Science and a Minor in Technology Entrepreneurship at the University of Maryland, College Park <br />
+📕 I'm pursuing a B.S. in Computer Science and a Minor in Technology Entrepreneurship at the University of Maryland, College Park <br />
+
+www.rohansharma.fyi
 
 ## Skills:
 
